@@ -1,3 +1,6 @@
+# Game-database-Website-using-Angular-and-Public-API
+Team members: Ananya Ghosh, Sanskriti, Doyel, Chitteshwari
+
 <h1 align="center"> NgVideoGameDb </h1>
 
 <h2 align="center"> Screenshots </h2>
